@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "na/8twFMW2mbQq+3PR8ZSWmxHr1hdN9948gCsP5gp6tkfcAQWz4Lkegk4wUkQ1TKdPr0QuYQKpuYXAfe3atI3w==",
+  "dgSpecHash": "ZKOpGkDujryYGCsxOvVoGjaoJ2CLgq7FVgVw/putCxYrCZ6zp9LnZavd4mrjIJkzEeEPeN8X6TmFDl+XNSD17A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Domain\\Livraria.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Domain\\Livraria.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

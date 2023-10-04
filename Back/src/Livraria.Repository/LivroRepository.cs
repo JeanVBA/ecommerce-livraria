@@ -25,6 +25,7 @@ namespace Livraria.Repository
             .Include(x => x.Editora);
             query = query.OrderBy(x => x.Id);
             return await query.ToArrayAsync();
+
         }
         public async Task<Livro> GetLivroByIdAsync(int id)
         {
@@ -32,7 +33,7 @@ namespace Livraria.Repository
             .Include(x => x.Autor)
             .Include(x => x.Editora);
             query = query.OrderBy(x => x.Id).Where(x => x.Id.Equals(id));
-            return await query.FirstAsync();
+            return await query.FirstOrDefaultAsync();
         }
 
         public async Task<Livro> GetLivroByNameAsync(string name)
@@ -40,15 +41,15 @@ namespace Livraria.Repository
             IQueryable<Livro> query = _context.Livros
             .Include(x => x.Autor)
             .Include(x => x.Editora);
-            query = query.OrderBy(x => x.Nome.ToLower().Contains(name.ToLower()));
-            return await query.FirstAsync();
+            query = query.OrderBy(x => x.Id).Where(x => x.Nome.ToLower().Contains(name.ToLower()));
+            return await query.FirstOrDefaultAsync();
         }
-        public async Task<Livro[]> GetLivroByGeneroAsync(Genero genero)
+        public async Task<Livro[]> GetLivroByGeneroAsync(string genero)
         {
             IQueryable<Livro> query = _context.Livros
             .Include(x => x.Autor)
             .Include(x => x.Editora);
-            query = query.OrderBy(x => x.Genero.Equals(genero));
+            query = query.OrderBy(x => x.Id).Where(x => x.Genero.ToLower().Equals(genero.ToLower()));
             return await query.ToArrayAsync();
         }
 

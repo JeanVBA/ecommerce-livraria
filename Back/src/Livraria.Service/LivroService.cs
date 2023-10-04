@@ -82,7 +82,7 @@ namespace Livraria.Service
             }
         }
 
-        public async Task<Livro[]> GetLivroByGeneroAsync(Genero genero)
+        public async Task<Livro[]> GetLivroByGeneroAsync(string genero)
         {
             try
             {

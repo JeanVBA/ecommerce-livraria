@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hxrr3DVzM/pZ3QEXvn9RLMB+BxbxZvv6gl3zSTOmx4IfjDxaj0cc/TK/HEcc4/+FrlWlCg78GdNzJfr8+R7fog==",
+  "dgSpecHash": "MrNPS2ipmPkfJo0O3eqvedRMxIABd4vdhaToxE7rXFIQ56suMbn7RWrbT4Nb8vsxtNjS9lxfxB7zFsFmCPAqrA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Service\\Livraria.Service.csproj",
+  "projectFilePath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Service\\Livraria.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

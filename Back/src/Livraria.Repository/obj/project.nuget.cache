@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDkt9uTglBlXcPPGDuirMG9Xczhx8C9fRYOFyPrht/SaPJqrZ9lWCrWXZ8QwNl5n3bRGzB2hm+p6WhollwG+Yg==",
+  "dgSpecHash": "hbpi6iiT7FlihhSMmBdxxbah0JyYFRIlHyHx9EQMQoJkTAU/HyRa52wcF4WwuguOIk/qQnZLBjreBZKcZ15FDA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\Livraria.Repository.csproj",
+  "projectFilePath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\Livraria.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeanv\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

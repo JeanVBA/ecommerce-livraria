@@ -45,3 +45,9 @@ C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\obj\Debug\net7.
 C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\obj\Debug\net7.0\Livraria.API.pdb
 C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\obj\Debug\net7.0\Livraria.API.genruntimeconfig.cache
 C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\obj\Debug\net7.0\ref\Livraria.API.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\bin\Debug\net7.0\Livraria.Domain.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\bin\Debug\net7.0\Livraria.Repository.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\bin\Debug\net7.0\Livraria.Service.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\bin\Debug\net7.0\Livraria.Service.pdb
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\bin\Debug\net7.0\Livraria.Domain.pdb
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.API\bin\Debug\net7.0\Livraria.Repository.pdb

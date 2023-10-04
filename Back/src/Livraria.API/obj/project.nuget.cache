@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nFYliJfVqsFavSNhYDZ5i7VXRxhSaef2ptaPEM4E6Iy5ST21M+TL8Ql0aTyaOLpXyyujXPus2MFJViIzSaEoQ==",
+  "dgSpecHash": "PqxRDdcDHDuQKRX43E1A+hhYOGxp1tsoEqw9/HtmFLOYQQRILsiCbkRwzOtgtbKSsHK7AdpA1uptIKW7WSukwA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.API\\Livraria.API.csproj",
+  "projectFilePath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.API\\Livraria.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeanv\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jeanv\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.0\\microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512",

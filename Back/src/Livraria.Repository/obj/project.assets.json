@@ -1091,11 +1091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\Livraria.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\Livraria.Repository.csproj",
       "projectName": "Livraria.Repository",
-      "projectPath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\Livraria.Repository.csproj",
+      "projectPath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\Livraria.Repository.csproj",
       "packagesPath": "C:\\Users\\jeanv\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\obj\\",
+      "outputPath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1117,8 +1117,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Domain\\Livraria.Domain.csproj": {
-              "projectPath": "c:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Domain\\Livraria.Domain.csproj"
+            "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Domain\\Livraria.Domain.csproj": {
+              "projectPath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Domain\\Livraria.Domain.csproj"
             }
           }
         }

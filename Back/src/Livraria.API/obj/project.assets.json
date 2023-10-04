@@ -598,6 +598,45 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Livraria.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Livraria.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Livraria.Domain.dll": {}
+        }
+      },
+      "Livraria.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Livraria.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Livraria.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Livraria.Repository.dll": {}
+        }
+      },
+      "Livraria.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Livraria.Domain": "1.0.0",
+          "Livraria.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Livraria.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Livraria.Service.dll": {}
+        }
       }
     }
   },
@@ -1742,10 +1781,26 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Livraria.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Livraria.Domain/Livraria.Domain.csproj",
+      "msbuildProject": "../Livraria.Domain/Livraria.Domain.csproj"
+    },
+    "Livraria.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Livraria.Repository/Livraria.Repository.csproj",
+      "msbuildProject": "../Livraria.Repository/Livraria.Repository.csproj"
+    },
+    "Livraria.Service/1.0.0": {
+      "type": "project",
+      "path": "../Livraria.Service/Livraria.Service.csproj",
+      "msbuildProject": "../Livraria.Service/Livraria.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Livraria.Service >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 7.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
@@ -1788,7 +1843,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Service\\Livraria.Service.csproj": {
+              "projectPath": "C:\\Users\\jeanv\\Documents\\Projetos\\Livraria\\Back\\src\\Livraria.Service\\Livraria.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

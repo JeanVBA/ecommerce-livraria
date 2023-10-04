@@ -15,6 +15,6 @@ namespace Livraria.Service.Contratos
         Task<Livro[]> GetAllLivrosAsync();
         Task<Livro> GetLivroByIdAsync(int id);
         Task<Livro> GetLivroByNameAsync(string name);
-        Task<Livro[]> GetLivroByGeneroAsync(Genero genero);
+        Task<Livro[]> GetLivroByGeneroAsync(string genero);
     }
 }

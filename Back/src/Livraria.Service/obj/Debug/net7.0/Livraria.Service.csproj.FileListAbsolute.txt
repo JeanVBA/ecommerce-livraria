@@ -1,0 +1,17 @@
+c:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Service.deps.json
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Service.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Service.pdb
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Domain.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Repository.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Domain.pdb
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\bin\Debug\net7.0\Livraria.Repository.pdb
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.csproj.AssemblyReference.cache
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.AssemblyInfoInputs.cache
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.AssemblyInfo.cs
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.csproj.CoreCompileInputs.cache
+c:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.csproj.CopyComplete
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\refint\Livraria.Service.dll
+C:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\Livraria.Service.pdb
+c:\Users\jeanv\Documents\Projetos\Livraria\Back\src\Livraria.Service\obj\Debug\net7.0\ref\Livraria.Service.dll

@@ -14,5 +14,10 @@ namespace Livraria.Repository.Context
         public DbSet<Autor> Autores { get; set; }
         public DbSet<Editora> Editoras { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Livro>().HasOne(x => x.Autor).WithMany(x => x.Livros);
+            modelBuilder.Entity<Livro>().HasOne(x => x.Editora).WithMany(x => x.Acervo);
+        }
     }
 }
